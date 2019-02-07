@@ -1,6 +1,7 @@
+#encoding=utf-8
 '''
 Created on 2013-3-3
-
+毕达哥拉斯三角 勾股定理
 @author: yannpxia
 '''
 def Special_Pythagorean_triplet(num):
@@ -11,7 +12,7 @@ def Special_Pythagorean_triplet(num):
                 if a*a + b*b == c*c:
                     print 'function'
                     print '%d*%d + %d*%d =  %d*%d' % (a, a, b, b, c, c)
-    return a,b,c
+    # return a,b,c # return 和for  同级，故找到一个勾股数就直接返回了。
 
 if __name__ == '__main__':
     Special_Pythagorean_triplet(1)

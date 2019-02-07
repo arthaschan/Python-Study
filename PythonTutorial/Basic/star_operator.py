@@ -1,3 +1,4 @@
+# encoding=utf-8
 # The single star * unpacks the sequence/collection into positional arguments, so you can do this:
 # 一个* 解包或者说展开一个序列（元组、列表）的数据结构, 主要用于函数传参
 

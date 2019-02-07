@@ -1,5 +1,6 @@
+#encoding=utf-8
 import math
-
+# Eratosthenes求质数方法。
 
 def eratosthenes(n):
     IsPrime = [True] * (n + 1)

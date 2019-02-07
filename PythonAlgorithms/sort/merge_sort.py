@@ -1,5 +1,6 @@
+#coding=utf-8
 # 归并排序，递归实现，核心思想：分而治之
-
+#基于python3
 def merge_sort(num_l: list):
     length = len(num_l)
     if length <= 1:

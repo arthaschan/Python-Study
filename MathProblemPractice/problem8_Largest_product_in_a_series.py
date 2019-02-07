@@ -1,6 +1,7 @@
+#encoding=utf-8
 '''
 Created on 2013-3-3
-
+在1000位数字中找出五个连续数字的最大乘积
 @author: yannpxia
 '''
 # Find the greatest product of five consecutive digits in the 1000-digit number.

@@ -1,6 +1,8 @@
 # Python Study
 摘要：此项目包括 Python， robotframework，docker，自动化测试，的学习笔记和demo。大部分代码代用py3.6+，部分老代码采用py2.7
 
+基于python3
+如果python代码中有中文的，都要在代码的第一行加上#encoding=utf-8
 ## DockerDemo
 使用docker做自动化测试的demo
 ## Math-problem-practice
